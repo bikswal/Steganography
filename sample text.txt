@@ -1,0 +1,1 @@
+This is a sample text file . Use this file to encode any secret message. If you open this file with word it will look as a normal file, If you decode the file using the application, then you can extract the secret text.
